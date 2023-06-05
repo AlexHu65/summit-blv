@@ -1,0 +1,7 @@
+laravel/node_modules/*
+laravel/.env.example
+laravel/.env
+laravel/server.php
+laravel/phpunit.xml
+laravel/webpack.mix.js
+.git-ftp-ignore

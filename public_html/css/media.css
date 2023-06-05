@@ -1,0 +1,632 @@
+
+@media only screen and (max-width: 1024px){
+  
+}
+
+@media only screen and (max-width: 768px){
+
+    .mainColor{
+        color: black !important;
+    }
+
+    body {
+        background: url(../images/bck.png);
+        /* background-position: center center; */
+        min-height: 1024px;
+        background-size: cover;
+        font-family: 'GothamNarrow-Medium';
+        background-position: initial;
+    }
+    .desk{
+        display: none !important;
+    }
+    .copyright{
+        font-size: 10px !important;
+    }
+    .title{
+        font-size: 4rem;
+    }
+    .mov{
+        display: inherit !important;
+    }
+    .headInterior{
+        padding: 0px !important;
+    }
+    .banner img {
+        width: 100% !important;
+    }
+
+}
+
+@media only screen and (max-width: 479px){
+
+    .mainColor{
+        color: black !important;
+    }
+
+    body {
+        background: url(../images/bck.png);
+        /* background-position: center center; */
+        min-height: 1024px;
+        background-size: cover;
+        font-family: 'GothamNarrow-Medium';
+        background-position: initial;
+    }
+    .desk{
+        display: none !important;
+    }
+    .copyright{
+        font-size: 10px !important;
+    }
+    .title{
+        font-size: 4rem;
+    }
+    .mov{
+        display: inherit !important;
+    }
+    .headInterior{
+        padding: 0px !important;
+    }
+    .banner img {
+        width: 100% !important;
+    }
+
+}
+
+@media only screen and (max-width: 425px){
+
+    .mainColor{
+        color: black !important;
+    }
+
+    body {
+        background: url(../images/bck.png);
+        /* background-position: center center; */
+        min-height: 1024px;
+        background-size: cover;
+        font-family: 'GothamNarrow-Medium';
+        background-position: initial;
+    }
+    .desk{
+        display: none !important;
+    }
+    .copyright{
+        font-size: 10px !important;
+    }
+    .title{
+        font-size: 4rem;
+    }
+    .mov{
+        display: inherit !important;
+    }
+    .headInterior{
+        padding: 0px !important;
+    }
+    .banner img {
+        width: 100% !important;
+    }
+
+}
+
+@media only screen and (max-width: 375px){
+
+    .mainColor{
+        color: black !important;
+    }
+
+    body {
+        background: url(../images/bck.png);
+        /* background-position: center center; */
+        min-height: 1024px;
+        background-size: cover;
+        font-family: 'GothamNarrow-Medium';
+        background-position: initial;
+    }
+    .desk{
+        display: none !important;
+    }
+    .copyright{
+        font-size: 10px !important;
+    }
+    .mov{
+        display: inherit !important;
+    }
+    .headInterior{
+        padding: 0px !important;
+    }
+    .banner img {
+        width: 100% !important;
+    }
+
+}
+
+@media only screen and (max-width: 320px){
+
+    .mainColor{
+        color: black !important;
+    }
+
+    body {
+        background: url(../images/bck.png);
+        /* background-position: center center; */
+        min-height: 1024px;
+        background-size: cover;
+        font-family: 'GothamNarrow-Medium';
+        background-position: initial;
+    }
+    .desk{
+        display: none !important;
+    }
+    .copyright{
+        font-size: 10px !important;
+    }
+    .title{
+        font-size: 4rem;
+    }
+    .mov{
+        display: inherit !important;
+    }
+    .headInterior{
+        padding: 0px !important;
+    }
+    .banner img {
+        width: 100% !important;
+    }
+
+}
+/* ----------- iPhone 5, 5S, 5C and 5SE ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (-webkit-min-device-pixel-ratio: 2) {
+
+    .mainColor{
+        color: black !important;
+    }
+
+    body {
+        background: url(../images/bck.png);
+        /* background-position: center center; */
+        min-height: 1024px;
+        background-size: cover;
+        font-family: 'GothamNarrow-Medium';
+        background-position: initial;
+    }
+    .desk{
+        display: none !important;
+    }
+    .copyright{
+        font-size: 10px !important;
+    }
+    .title{
+        font-size: 4rem;
+    }
+    .mov{
+        display: inherit !important;
+    }
+    .headInterior{
+        padding: 0px !important;
+    }
+    .banner img {
+        width: 100% !important;
+    }
+
+
+}
+
+/* Portrait */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (-webkit-min-device-pixel-ratio: 2)
+and (orientation: portrait) {
+
+    .mainColor{
+        color: black !important;
+    }
+
+    body {
+        background: url(../images/bck.png);
+        /* background-position: center center; */
+        min-height: 1024px;
+        background-size: cover;
+        font-family: 'GothamNarrow-Medium';
+        background-position: initial;
+    }
+    .desk{
+        display: none !important;
+    }
+    .copyright{
+        font-size: 10px !important;
+    }
+    .title{
+        font-size: 4rem;
+    }
+    .mov{
+        display: inherit !important;
+    }
+    .headInterior{
+        padding: 0px !important;
+    }
+    .banner img {
+        width: 100% !important;
+    }
+
+}
+
+/* Landscape */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (-webkit-min-device-pixel-ratio: 2)
+and (orientation: landscape) {
+
+    .mainColor{
+        color: black !important;
+    }
+
+    body {
+        background: url(../images/bck.png);
+        /* background-position: center center; */
+        min-height: 1024px;
+        background-size: cover;
+        font-family: 'GothamNarrow-Medium';
+        background-position: initial;
+    }
+    .desk{
+        display: none !important;
+    }
+    .copyright{
+        font-size: 10px !important;
+    }
+    .title{
+        font-size: 4rem;
+    }
+    .mov{
+        display: inherit !important;
+    }
+    .headInterior{
+        padding: 0px !important;
+    }
+    .banner img {
+        width: 100% !important;
+    }
+
+}
+
+/* ----------- iPhone 6, 6S, 7 and 8 ----------- */
+
+/* Portrait and Landscape */
+@media only screen (-webkit-min-device-pixel-ratio: 2) {
+
+    .mainColor{
+        color: black !important;
+    }
+
+    body {
+        background: url(../images/bck.png);
+        /* background-position: center center; */
+        min-height: 1024px;
+        background-size: cover;
+        font-family: 'GothamNarrow-Medium';
+        background-position: initial;
+    }
+    .desk{
+        display: none !important;
+    }
+    .copyright{
+        font-size: 10px !important;
+    }
+    .title{
+        font-size: 4rem;
+    }
+    .mov{
+        display: inherit !important;
+    }
+    .headInterior{
+        padding: 0px !important;
+    }
+    .banner img {
+        width: 100% !important;
+    }
+
+}
+
+/* Portrait */
+@media only screen (-webkit-min-device-pixel-ratio: 2)
+and (orientation: portrait) {
+
+    .mainColor{
+        color: black !important;
+    }
+
+    body {
+        background: url(../images/bck.png);
+        /* background-position: center center; */
+        min-height: 1024px;
+        background-size: cover;
+        font-family: 'GothamNarrow-Medium';
+        background-position: initial;
+    }
+    .desk{
+        display: none !important;
+    }
+    .copyright{
+        font-size: 10px !important;
+    }
+    .title{
+        font-size: 4rem;
+    }
+    .mov{
+        display: inherit !important;
+    }
+    .headInterior{
+        padding: 0px !important;
+    }
+    .banner img {
+        width: 100% !important;
+    }
+
+}
+
+/* Landscape */
+@media only screen (-webkit-min-device-pixel-ratio: 2)
+and (orientation: landscape) {
+
+    .mainColor{
+        color: black !important;
+    }
+
+    body {
+        background: url(../images/bck.png);
+        /* background-position: center center; */
+        min-height: 1024px;
+        background-size: cover;
+        font-family: 'GothamNarrow-Medium';
+        background-position: initial;
+    }
+    .desk{
+        display: none !important;
+    }
+    .copyright{
+        font-size: 10px !important;
+    }
+    .title{
+        font-size: 4rem;
+    }
+    .mov{
+        display: inherit !important;
+    }
+    .headInterior{
+        padding: 0px !important;
+    }
+    .banner img {
+        width: 100% !important;
+    }
+
+}
+
+/* ----------- iPhone 6+, 7+ and 8+ ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (-webkit-min-device-pixel-ratio: 3) {
+
+    .mainColor{
+        color: black !important;
+    }
+
+    body {
+        background: url(../images/bck.png);
+        /* background-position: center center; */
+        min-height: 1024px;
+        background-size: cover;
+        font-family: 'GothamNarrow-Medium';
+        background-position: initial;
+    }
+    .desk{
+        display: none !important;
+    }
+    .copyright{
+        font-size: 10px !important;
+    }
+    .title{
+        font-size: 4rem;
+    }
+    .mov{
+        display: inherit !important;
+    }
+    .headInterior{
+        padding: 0px !important;
+    }
+    .banner img {
+        width: 100% !important;
+    }
+
+}
+
+/* Portrait */
+@media only screen and (-webkit-min-device-pixel-ratio: 3)
+and (orientation: portrait) {
+
+    .mainColor{
+        color: black !important;
+    }
+
+    body {
+        background: url(../images/bck.png);
+        /* background-position: center center; */
+        min-height: 1024px;
+        background-size: cover;
+        font-family: 'GothamNarrow-Medium';
+        background-position: initial;
+    }
+    .desk{
+        display: none !important;
+    }
+    .copyright{
+        font-size: 10px !important;
+    }
+    .title{
+        font-size: 4rem;
+    }
+    .mov{
+        display: inherit !important;
+    }
+    .headInterior{
+        padding: 0px !important;
+    }
+    .banner img {
+        width: 100% !important;
+    }
+
+}
+
+/* Landscape */
+@media only screen (-webkit-min-device-pixel-ratio: 3)
+and (orientation: landscape) {
+
+    .mainColor{
+        color: black !important;
+    }
+
+    body {
+        background: url(../images/bck.png);
+        /* background-position: center center; */
+        min-height: 1024px;
+        background-size: cover;
+        font-family: 'GothamNarrow-Medium';
+        background-position: initial;
+    }
+    .desk{
+        display: none !important;
+    }
+    .copyright{
+        font-size: 10px !important;
+    }
+    .title{
+        font-size: 4rem;
+    }
+    .mov{
+        display: inherit !important;
+    }
+    .headInterior{
+        padding: 0px !important;
+    }
+    .banner img {
+        width: 100% !important;
+    }
+
+}
+
+/* ----------- iPhone X ----------- */
+/* Portrait and Landscape */
+@media only (-webkit-min-device-pixel-ratio: 3) {
+
+    .mainColor{
+        color: black !important;
+    }
+
+    body {
+        background: url(../images/bck.png);
+        /* background-position: center center; */
+        min-height: 1024px;
+        background-size: cover;
+        font-family: 'GothamNarrow-Medium';
+        background-position: initial;
+    }
+    .desk{
+        display: none !important;
+    }
+    .copyright{
+        font-size: 10px !important;
+    }
+    .title{
+        font-size: 4rem;
+    }
+    .mov{
+        display: inherit !important;
+    }
+    .headInterior{
+        padding: 0px !important;
+    }
+    .banner img {
+        width: 100% !important;
+    }
+
+}
+
+/* Portrait */
+@media only screen (-webkit-min-device-pixel-ratio: 3)
+and (orientation: portrait) {
+
+    .mainColor{
+        color: black !important;
+    }
+
+    body {
+        background: url(../images/bck.png);
+        /* background-position: center center; */
+        min-height: 1024px;
+        background-size: cover;
+        font-family: 'GothamNarrow-Medium';
+        background-position: initial;
+    }
+    .desk{
+        display: none !important;
+    }
+    .copyright{
+        font-size: 10px !important;
+    }
+    .title{
+        font-size: 4rem;
+    }
+    .mov{
+        display: inherit !important;
+    }
+    .headInterior{
+        padding: 0px !important;
+    }
+    .banner img {
+        width: 100% !important;
+    }
+
+}
+
+/* Landscape */
+@media only screen (-webkit-min-device-pixel-ratio: 3)
+and (orientation: landscape) {
+
+    .mainColor{
+        color: black !important;
+    }
+
+    body {
+        background: url(../images/bck.png);
+        /* background-position: center center; */
+        min-height: 1024px;
+        background-size: cover;
+        font-family: 'GothamNarrow-Medium';
+        background-position: initial;
+    }
+    .desk{
+        display: none !important;
+    }
+    .copyright{
+        font-size: 10px !important;
+    }
+    .title{
+        font-size: 4rem;
+    }
+    .mov{
+        display: inherit !important;
+    }
+    .headInterior{
+        padding: 0px !important;
+    }
+    .banner img {
+        width: 100% !important;
+    }
+
+}

@@ -1,0 +1,141 @@
+body {
+  background: url("../images/bck.png");
+  background-position: center center;
+  min-height: 1024px;
+  background-size: cover;
+  font-family: 'GothamNarrow-Medium';
+  background-position-y: -550px;
+  background-repeat: no-repeat;
+  background-color: #0087fa;
+}
+.banner {
+  background: url("../images/banner1.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 450px;
+  width: 750px;
+}
+.ligth {
+  font-family: 'GothamNarrow-Light' !important;
+}
+.black {
+  font-family: 'GothamNarrow-Bold';
+}
+.mainColor {
+  color: #2bffb9 !important;
+}
+.colorBlack {
+  color: #000 !important;
+}
+.dn {
+  display: none;
+}
+.mov {
+  display: none !important;
+}
+#map {
+  height: 450px;
+}
+.menu-nav a {
+  margin-right: 50px;
+  color: #052017;
+  text-transform: uppercase;
+  font-size: 20px;
+  -webkit-transition: 0.5s ease all;
+  transition: 0.5s ease all;
+  text-decoration: none;
+}
+.menu-nav a:hover {
+  color: #fff !important;
+}
+.menu-nav a:last-of-type {
+  margin-right: 0;
+}
+.banner img {
+  width: 75%;
+}
+.info {
+  font-size: 20px;
+  line-height: 1;
+}
+.marker {
+  background: #2bffb9;
+  padding: 10px 5px;
+}
+.s20 {
+  font-size: 20px !important;
+}
+.s23 {
+  font-size: 23px !important;
+}
+.s25 {
+  font-size: 25px !important;
+}
+.s30 {
+  font-size: 30px !important;
+}
+.border-r {
+  border-right: 2px solid #2bffb9;
+}
+.bg1 {
+  background: url("../images/bg1.png");
+  background-position: center center;
+  background-size: cover;
+  min-height: 300px !important;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+          justify-content: center;
+}
+.bg2 {
+  background: url("../images/bg2.png");
+  background-position: center center;
+  background-size: cover;
+  display: none;
+}
+.secColor {
+  color: #2a0a5e !important;
+}
+footer {
+  height: 50px;
+  background: #000;
+}
+footer img {
+  width: 50% !important;
+}
+.headInterior {
+  background: url("../images/bg_green.png");
+  background-position: center center;
+  background-size: cover;
+  padding: 60px 0px;
+}
+.title {
+  color: #025ba6 !important;
+  font-size: 12rem;
+}
+.relative {
+  position: relative !important;
+}
+.absolute {
+  position: absolute !important;
+}
+.info-paquete img {
+  left: 0 !important;
+  top: 30% !important;
+  max-height: 215px !important;
+}
+.deg90 {
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+}
+.icono {
+  cursor: pointer;
+}
+.modal-background {
+  background-color: rgba(10,10,10,0.5) !important;
+  -webkit-backdrop-filter: blur(20px) !important;
+  backdrop-filter: blur(20px) !important;
+}
